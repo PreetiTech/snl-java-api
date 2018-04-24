@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-04-23T10:15:01Z" name="Default suite" finished-at="2018-04-23T10:15:01Z" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2018-04-23T10:15:01Z" name="Default test" finished-at="2018-04-23T10:15:01Z" duration-ms="86">
+      <class name="snlJavaApiTest.BoardTest">
+        <test-method signature="gameInProgressExceptionTest()[pri:0, instance:snlJavaApiTest.BoardTest@544fa968]" started-at="2018-04-23T15:45:01Z" name="gameInProgressExceptionTest" finished-at="2018-04-23T15:45:01Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gameInProgressExceptionTest -->
+        <test-method signature="maxPlayersReachedExceptionTest()[pri:0, instance:snlJavaApiTest.BoardTest@544fa968]" started-at="2018-04-23T15:45:01Z" name="maxPlayersReachedExceptionTest" finished-at="2018-04-23T15:45:01Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxPlayersReachedExceptionTest -->
+        <test-method signature="registeredPlayerTestName()[pri:0, instance:snlJavaApiTest.BoardTest@544fa968]" started-at="2018-04-23T15:45:01Z" name="registeredPlayerTestName" finished-at="2018-04-23T15:45:01Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeredPlayerTestName -->
+        <test-method signature="registeredPlayerTestNameNull()[pri:0, instance:snlJavaApiTest.BoardTest@544fa968]" started-at="2018-04-23T15:45:01Z" name="registeredPlayerTestNameNull" finished-at="2018-04-23T15:45:01Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeredPlayerTestNameNull -->
+        <test-method signature="registeredPlayerTestPosition()[pri:0, instance:snlJavaApiTest.BoardTest@544fa968]" started-at="2018-04-23T15:45:01Z" name="registeredPlayerTestPosition" finished-at="2018-04-23T15:45:01Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeredPlayerTestPosition -->
+      </class> <!-- snlJavaApiTest.BoardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
